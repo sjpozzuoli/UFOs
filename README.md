@@ -20,4 +20,4 @@
 
 #### Overall, the webpage is user friendly and provides the user with an ability to more easily sift through the data. One slight drawback in the website design is the lack of a 'Clear' button for when the user wanted to see all of the data again. In order to display this, the user would need to manually delete the text in the fields they searched and then hit 'Enter' again.
 
-#### 
+#### There is also an opportunity to develop this website further. One thing I would recommend doing would be to gather data for a larger time frame than what we currently have. Our current data only encompasses a two week period during 2010. The second thing I would recommend is a setup for the site to automatically add new data when it is added to the data set. This way the webpage would be current with all of the UFO sightings in the world.
