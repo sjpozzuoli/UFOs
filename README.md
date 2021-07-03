@@ -18,6 +18,6 @@
 
 ## Summary
 
-#### Overall, the webpage is user friendly and provides the user with an ability to more easily sift through the data. One slight drawback in the website design is the lack of a 'Clear' button for when the user wanted to see all of the data again. In order to display this, the user would need to either hit the back button or to manually delete the text in the fields they searched and then hit 'Enter' again.
+#### Overall, the webpage is user friendly and provides the user with an ability to more easily sift through the data. One slight drawback in the website design is the lack of a 'Clear' button for when the user wanted to see all of the data again. In order to display this, the user would need to manually delete the text in the fields they searched and then hit 'Enter' again.
 
 #### 
